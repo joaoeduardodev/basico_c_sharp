@@ -1,6 +1,5 @@
-# Hello World em C#
-Repositório para o estudo dos conceitos básicos da linguagem C#  juntamente com plataforma .NET .
+# Repositório para estudos da linguagem C# e da plataforma .NET .
 
-Para executar essa aplicação, eu segui o seguinte tutorial <a>https://docs.microsoft.com/pt-br/dotnet/core/tutorials/with-visual-studio-code</a>
+Para executar as aplicações estou usando como principal fonte de estudo os tutorias que se encontram no site da Microsoft <a>https://dotnet.microsoft.com/</a>
 
 Meu LinkedIn <a>https://www.linkedin.com/in/joaoeduardodev/</a>
